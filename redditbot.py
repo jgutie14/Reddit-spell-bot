@@ -1,11 +1,11 @@
 import praw
 import time
 
-reddit = praw.Reddit(client_id='xZLNjCjAh66WAw',
-                     client_secret='AP3TlH95KeMJdlfbo3u3txZHPRlX1A',
-                     user_agent='Colombia_Spelling_Bot: v1.0.0 (by u/SadLas)',
-                     username='colombia_spell_bot',
-                     password='treeHouse_07')
+reddit = praw.Reddit(client_id='',
+                     client_secret='',
+                     user_agent='',
+                     username='',
+                     password='')
 
 targetWord = "columbia"
 
