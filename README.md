@@ -1,6 +1,6 @@
 # Reddit-spell-bot
 
-**Version 1.0.0**
+**Version 1.1.0**
 
 Python script that searches subreddits for a specific keyword(s) and automatically replies.
 
