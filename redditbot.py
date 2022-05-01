@@ -1,11 +1,11 @@
 import praw
 
 reddit = praw.Reddit(
-    client_id="xZLNjCjAh66WAw",
-    client_secret="AP3TlH95KeMJdlfbo3u3txZHPRlX1A",
+    client_id="",
+    client_secret="",
     user_agent="Colombia_Spelling_Bot: v1.1.0 (by u/SadLas)",
     username="colombia_spell_bot",
-    password="treeHouse_07",
+    password="",
 )
 
 # Dictionary that contains the key-value pairs as follows: <targetWord,replyToUser>
